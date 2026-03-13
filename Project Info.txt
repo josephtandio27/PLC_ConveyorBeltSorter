@@ -1,0 +1,12 @@
+Conveyor Belt for sorting 3 types of objects by color (RGB).
+
+Conveyor Belt Base Properties:
+	Methods:
+		Start
+		Stop
+		SetVelocity (need to simulate real delay for the velocity)
+	Properties:
+		bRunning
+		iVel
+		bError
+		
